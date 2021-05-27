@@ -13,7 +13,7 @@
 # Learn more about the project and development here: www.captureball.com
 <br>
 
-![Yellow Team](Images/GhostBlue.png)
+![Yellow Team](https://github.com/DarrellWulff/ProjectCB/blob/master/Images/GhostBlue.PNG)
 
 ![Blue Team](Images/Start.png)
 
