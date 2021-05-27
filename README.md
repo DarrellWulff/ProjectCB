@@ -1,13 +1,27 @@
-# ProjectCB
+# Captureball
+<br>
 
-CAPTURE BALL Dodgeball X Capture The Flag
+### Captureball is a 3D team based online multiplayer dodgeball like game made with Unreal Engine with a focus on the usage of the Unreal C++ API.
+<br>
 
-##How to get started
+### It uses a custom build of Unreal Engine 4.25 that is integrated with the Amazon GameLift C++ Plugin. This Plugin allows for the custom build to communicate with the AWS technologies required to run a dedicated multiplayer game like AWS Lambda, API Gateway, Amazon Cognito, Amazon Dynamodb, Amazon GameLift Servers, and Flexmatch.
+<br>
 
-1. Download/Install Unreal Engine
+### Since it was a group project my contribution to Captureball involved setting up the AWS server technologies, coding in C++ the communication to AWS, the Captureball GameMode and gameplay loop management classes, menu and gameplay UI, and to replicate the game management and gameplay code to the dedicated server/client architecture.
+<br>
 
-1. After pullling project right click the uproject file and select generate Visual Studio files
+# Learn more about the project and development here: www.captureball.com
+<br>
 
-1. After Visual Studio files are generated you can open the editor two ways:
-  * By openinging the Visual Studio sln file and then building/running the project with or without debug
-  * Or open the uproject file where the Unreal Editor will open, from there you can open Visual Studio *File->Open Visual Studio*
+![Yellow Team](Images/GhostBlue.png)
+
+![Blue Team](Images/Start.png)
+
+![TitleScreen](Images/MainMenu.png)
+
+![Login](Images/CognitoLogInUnreal.png)
+
+
+
+
+
