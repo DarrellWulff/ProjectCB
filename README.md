@@ -15,11 +15,11 @@
 
 ![Yellow Team](https://github.com/DarrellWulff/ProjectCB/blob/master/Images/GhostBlue.PNG)
 
-![Blue Team](Images/Start.png)
+![Blue Team](https://github.com/DarrellWulff/ProjectCB/blob/master/Images/Start.PNG)
 
-![TitleScreen](Images/MainMenu.png)
+![TitleScreen](https://github.com/DarrellWulff/ProjectCB/blob/master/Images/MainMenu.PNG)
 
-![Login](Images/CognitoLogInUnreal.png)
+![Login](https://github.com/DarrellWulff/ProjectCB/blob/master/Images/CognitoLogInUnreal.PNG)
 
 
 
