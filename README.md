@@ -1,7 +1,7 @@
 # Captureball
 <br>
 
-### Captureball is a 3D team based online multiplayer dodgeball like game made with Unreal Engine with a focus on the usage of the Unreal C++ API.
+### Captureball is a 3D team based online multiplayer dodgeball like game made with Unreal Engine with a focus on the usage of Unreal C++.
 <br>
 
 ### It uses a custom build of Unreal Engine 4.25 that is integrated with the Amazon GameLift C++ Plugin. This Plugin allows for the custom build to communicate with the AWS technologies required to run a dedicated multiplayer game like AWS Lambda, API Gateway, Amazon Cognito, Amazon Dynamodb, Amazon GameLift Servers, and Flexmatch.
